@@ -1,4 +1,4 @@
-# Spring Boot Todo Web Application
+# Spring Boot Taskify Web Application
 
 ## Overview
 This is a simple **Todo Web Application** built using **Spring Boot, Spring Security, Spring Data JPA, and Thymeleaf**. The application allows users to:
